@@ -104,8 +104,6 @@ pip install opencv-python dlib imutils tqdm scikit-learn matplotlib seaborn h5py
 This model is essential for facial landmark detection.
 
 ```bash
-# Navigate to your project directory
-cd /Users/shayanhashemi/Downloads/App/eye/
 
 # Download the shape predictor
 curl -LO http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
