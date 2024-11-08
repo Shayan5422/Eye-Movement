@@ -1,7 +1,6 @@
-# Eye-Movement
+# Eye and Eyebrow Movement Recognition
 Eye and Eyebrow Movement Recognition
 
-# Eye and Eyebrow Movement Recognition
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
