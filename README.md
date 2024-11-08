@@ -3,9 +3,9 @@ Eye and Eyebrow Movement Recognition
 ```markdown
 # Eye and Eyebrow Movement Recognition
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
-![TensorFlow](https://img.shields.io/badge/tensorflow-2.8.0%2B-brightgreen.svg)
+[License](https://img.shields.io/badge/license-MIT-blue.svg)
+[Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+[TensorFlow](https://img.shields.io/badge/tensorflow-2.8.0%2B-brightgreen.svg)
 
 ## 📖 Table of Contents
 
