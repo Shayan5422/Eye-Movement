@@ -553,4 +553,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [imutils](https://github.com/jrosebr1/imutils)
 - [Hugging Face](https://huggingface.co/)
 - [Metal Performance Shaders (MPS)](https://developer.apple.com/documentation/metalperformanceshaders)
-```
+
